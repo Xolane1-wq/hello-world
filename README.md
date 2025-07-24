@@ -1,2 +1,4 @@
-# hello-world
-I love food 
+# This is a comment 
+# Each line is a file pattern followed by one or more owners 
+
+# These owners will be the default owner for everything 
